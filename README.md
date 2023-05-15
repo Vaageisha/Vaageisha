@@ -1,6 +1,6 @@
 Hello Everyone!
-I am Vaageisha Sharma, a CSE first Year student.
-I have a good command over basic JAVA.
+I am Vaageisha Sharma, a CSE Second Year student.
+I have a good command over intermediate JAVA.
 Currently I am learning C language and Python.
 You can always find me trying and experimenting with new things.
 
