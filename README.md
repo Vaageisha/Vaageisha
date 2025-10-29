@@ -7,12 +7,16 @@ Sometime I also work on satellite streak detection  using Python and image proce
 **Skills**
 
 Languages: Java, JavaScript, Python, C++
+
 Development: MERN Stack (MongoDB, Express, React, Node.js)
+
 Research Areas: Image Processing, Astrophysics, Machine Learning
+
 Tools: Git, OpenCV, Astropy, TensorFlow
 
 
 **Connect With Me**
 
 GitHub: Vaageisha
+
 LinkedIn: https://www.linkedin.com/in/vaageisha-sharma-215296336/
