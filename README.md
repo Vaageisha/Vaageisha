@@ -6,7 +6,7 @@ Sometime I also work on satellite streak detection  using Python and image proce
 
 **Skills**
 
-Languages: Java, JavaScript, Python, C++
+Languages: Java, JavaScript, Python
 
 Development: MERN Stack (MongoDB, Express, React, Node.js)
 
